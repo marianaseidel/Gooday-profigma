@@ -23,6 +23,7 @@ O aplicativo inclui as seguintes telas:
  - Grupos;
  - Perfil;
  - Eventos;
+ - Pesquisa;
  - Favoritos.
 <br>
 
