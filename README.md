@@ -1,4 +1,4 @@
-![Banner](https://github.com/marianaseidel/gooday-app/Logotipo/logotipo-green.png)
+![Banner](https://github.com/marianaseidel/Gooday-profigma/blob/main/gooday-app/Logotipo/logotipo-green.png)
 
 Esse protótipo faz parte do curso **PRO FIGMA | UI DESIGN com Figma do Zero ao especialista 2024**, da Udemy.
 
@@ -29,23 +29,24 @@ O aplicativo inclui as seguintes telas:
 ## :iphone: Protótipo navegável
 ### LOGIN E CADASTRO:
 
-   ![Banner](https://github.com/marianaseidel/gifs/cadastro_gooday.gif)
+   ![Banner](https://github.com/marianaseidel/Gooday-profigma/blob/main/gifs/cadastro_gooday.gif)
 
 ### DESTAQUES:
 
-   ![Banner](https://github.com/marianaseidel/gifs/destaque_gooday.gif)
+   ![Banner](https://github.com/marianaseidel/Gooday-profigma/blob/main/gifs/destaque_gooday.gif)
 
 ### ESTABELECIMENTO:
 
-   ![Banner](https://github.com/marianaseidel/gifs/estabelecimento_gooday.gif)
+   ![Banner](https://github.com/marianaseidel/Gooday-profigma/blob/main/gifs/estabelecimento_gooday.gif)
 
 ### GRUPO:
 
-   ![Banner](https://github.com/marianaseidel/gifs/grupo_gooday.gif)
+   ![Banner](https://github.com/marianaseidel/Gooday-profigma/blob/main/gifs/grupo_gooday.gif)
 
-### POST:
+### POST ATIVIDADE E DESTAQUE:
 
-   ![Banner](https://github.com/marianaseidel/gifs/post_gooday.gif)
+   ![Banner](https://github.com/marianaseidel/Gooday-profigma/blob/main/gifs/post_gooday.gif)
 
 ## :link: Link para visualizar o projeto:
+https://www.figma.com/proto/Qpb82wCJzpvgCSqPj8Bseg/Assets-do-projeto-e-Persona-(Community)?page-id=107%3A34&node-id=147-553&viewport=650%2C397%2C0.13&t=9GQNVEQEZOjoOewg-1&scaling=scale-down&starting-point-node-id=107%3A35&show-proto-sidebar=1
 
